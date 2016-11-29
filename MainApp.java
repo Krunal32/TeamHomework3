@@ -33,6 +33,7 @@ public class MainApp
 					break;
 					
 				case 4:
+					System.out.println("GoodBye!");
 					return;
 					
 			}
